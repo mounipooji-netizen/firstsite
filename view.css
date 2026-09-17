@@ -1,0 +1,19 @@
+h4{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: oblique;
+    color: blueviolet;
+    text-align: center;
+}
+
+
+
+div{
+    color: darkred;
+    
+    font-size: medium;
+    align-items: flex-start;
+
+}
+
